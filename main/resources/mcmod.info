@@ -1,0 +1,18 @@
+[
+{
+    "modid" : "sporecraft",
+    "name" : "SporeCraft",
+    "version" : "1.7.2_0.001",
+    "credits" : "",
+    "authors" : [
+    "VapourDrive"
+    ],
+    "description" : "The world shall be manipulated by spores!",
+    "url" : "",
+    "updateUrl" : "",
+    "logFile" : "",
+    "parent" : "",
+    "screenshots" : [
+    ]
+}
+]
